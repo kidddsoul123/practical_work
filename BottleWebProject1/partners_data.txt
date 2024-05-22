@@ -1,0 +1,30 @@
+Company Name: q
+Description: q
+Contacts: q
+Start Date: None
+CEO Name: q
+
+Company Name: q
+Description: q
+Contacts: q
+Start Date: 2024-06-01
+CEO Name: q
+
+Company Name: q
+Description: q
+Contacts: q
+Start Date: None
+CEO Name: q
+
+Company Name: q
+Description: q
+Contacts: q
+Start Date: 2024-05-09
+CEO Name: q
+
+Company Name: q
+Description: q
+Contacts: q
+Start Date: 2024-05-11
+CEO Name: q
+

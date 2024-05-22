@@ -56,6 +56,9 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="json_data.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.css" />
     <Content Include="static\content\bootstrap.min.css" />
@@ -90,6 +93,10 @@
     <Content Include="views\Partner.tpl">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="views\partners.json">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\partners_data.txt" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env2\">
